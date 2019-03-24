@@ -30,4 +30,10 @@ python sunspotDetector.py
 ```
 **note** If you are running on a Mac and get error: "ImportError: Python is not installed as a framework. The Mac OS X backend..." please see: https://stackoverflow.com/questions/21784641/installation-issue-with-matplotlib-python
 
+### Example output
+
+![example run1](https://github.com/larserikfagernaes/IRISSunspotDetector/running_example/ex1.png "example 1")
+
+![example run2](https://github.com/larserikfagernaes/IRISSunspotDetector/running_example/ex2.png "example 2")
+
 
