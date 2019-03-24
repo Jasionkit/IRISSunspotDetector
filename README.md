@@ -32,8 +32,8 @@ python sunspotDetector.py
 
 ### Example output
 
-![example run1](https://github.com/larserikfagernaes/IRISSunspotDetector/running_example/ex1.png "example 1")
+![example run1](https://github.com/larserikfagernaes/IRISSunspotDetector/blob/master/running_example/ex1.png?raw=true "example 1")
 
-![example run2](https://github.com/larserikfagernaes/IRISSunspotDetector/running_example/ex2.png "example 2")
+![example run2](https://github.com/larserikfagernaes/IRISSunspotDetector/blob/master/running_example/ex2.png?raw=true "example 2")
 
 
